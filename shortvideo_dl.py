@@ -6,9 +6,6 @@ import urllib.parse
 
 import dl
 
-filename = 'tryshortvideo' # input
-shortvideo = 'http://www.liveme.com/media/shortvideo/?videoid=347736292784247217481318422000' # input
-
 def real_link_of_shortvideo(shortvideo):
     '''
     get real link from original shortvideo link.
