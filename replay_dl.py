@@ -7,10 +7,6 @@ import urllib.parse
 
 import dl
 
-# filename = 'ff039' # input
-# userid = '927842472174813184' # input
-# replay = 'https://www.liveme.com/live.html?videoid=15134898379897522543' # input
-
 def real_links_of_replay(userid, replay, page_size=50, page_index=0):
     '''
 
